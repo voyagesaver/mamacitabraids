@@ -4249,7 +4249,7 @@ a {
   color: #977741;
 }
 .cid-tfUUfOryF5 .mbr-section-subtitle {
-  color: #a2528a;
+  color: #000000;
 }
 .cid-tfUUfOryF5 .item-wrapper:hover .title-block {
   opacity: 1;
@@ -4299,11 +4299,6 @@ a {
   justify-content: center;
   align-items: center;
   opacity: 0.5;
-}
-@media (max-width: 768px) {
-  .cid-tfUUfOryF5 .embla__button .mobi-mbri {
-    display: none;
-  }
 }
 .cid-tfUUfOryF5 .embla__button:hover {
   color: #fff;
